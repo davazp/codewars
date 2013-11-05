@@ -1,4 +1,0 @@
-codewars
-========
-
-Some interesting Katas
