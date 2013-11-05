@@ -1,0 +1,2 @@
+* Codewars
+Solutions to some interesting Katas from [[http://www.codewars.com/][codewars]]. Don't cheat!
